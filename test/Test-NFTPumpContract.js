@@ -115,16 +115,16 @@ if (true == true)
             it("Mints a token from Dapp", async function () {
 
                 const PurchaseArray = [
-                    { amount: 10, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" },
-                    { amount: 50, value: "5" }
+                    { amount: 10, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" },
+                    { amount: 50, value: "15" }
                     // { amount: 5, value: "0.35" },
                     // { amount: 10, value: "0.7" },
                     //{ amount: 100, value: "7" }
